@@ -22,10 +22,18 @@
     "major": "node Makefile.js major"
   },
   "dependencies": {
+    "assert": "^1.4.1",
+    "crypto": "0.0.3",
+    "events": "^1.1.1",
     "http-status": "^0.2.2",
+    "https": "^1.0.0",
     "jsonwebtoken": "^5.7.0",
     "merge-options": "0.0.64",
+    "net": "^1.0.2",
+    "querystring": "^0.2.0",
     "request": "^2.74.0",
+    "stream": "0.0.2",
+    "util": "^0.10.3",
     "uuid": "^3.0.0"
   },
   "devDependencies": {
